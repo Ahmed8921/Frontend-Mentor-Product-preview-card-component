@@ -36,7 +36,7 @@ body {
 }
 .product .container .left-side{
     flex-basis: 50%;
-    background-image: url("/images/image-product-desktop.jpg");
+    background-image: url("../images/image-product-desktop.jpg");
     background-size: cover;
     width: 100%;
 }
@@ -108,7 +108,7 @@ transition: .3s;
         height: 500px;
     }   
     .product .container .left-side{
-        background-image: url("/images/image-product-mobile.jpg");
+        background-image: url("../images/image-product-mobile.jpg");
         background-size: cover;
     }
     .product .container .reight-side button{
